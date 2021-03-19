@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-webview/static/css/main.aa950fb3.chunk.css",
+    "main.js": "/react-webview/static/js/main.b93a8dd2.chunk.js",
+    "main.js.map": "/react-webview/static/js/main.b93a8dd2.chunk.js.map",
+    "runtime-main.js": "/react-webview/static/js/runtime-main.8a1b1d92.js",
+    "runtime-main.js.map": "/react-webview/static/js/runtime-main.8a1b1d92.js.map",
+    "static/css/2.bded3b46.chunk.css": "/react-webview/static/css/2.bded3b46.chunk.css",
+    "static/js/2.ab8dee81.chunk.js": "/react-webview/static/js/2.ab8dee81.chunk.js",
+    "static/js/2.ab8dee81.chunk.js.map": "/react-webview/static/js/2.ab8dee81.chunk.js.map",
+    "static/js/3.9e6c15fa.chunk.js": "/react-webview/static/js/3.9e6c15fa.chunk.js",
+    "static/js/3.9e6c15fa.chunk.js.map": "/react-webview/static/js/3.9e6c15fa.chunk.js.map",
+    "index.html": "/react-webview/index.html",
+    "static/css/2.bded3b46.chunk.css.map": "/react-webview/static/css/2.bded3b46.chunk.css.map",
+    "static/css/main.aa950fb3.chunk.css.map": "/react-webview/static/css/main.aa950fb3.chunk.css.map",
+    "static/js/2.ab8dee81.chunk.js.LICENSE.txt": "/react-webview/static/js/2.ab8dee81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a1b1d92.js",
+    "static/css/2.bded3b46.chunk.css",
+    "static/js/2.ab8dee81.chunk.js",
+    "static/css/main.aa950fb3.chunk.css",
+    "static/js/main.b93a8dd2.chunk.js"
+  ]
+}
